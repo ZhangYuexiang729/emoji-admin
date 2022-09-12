@@ -1,2 +1,2 @@
-# enoji-admin
+# emoji-admin
 表情包后台
